@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Text+Me+One&display=swap');
+
+nav{
+    background-color: rgb(15, 15, 15);
+    font-family: 'Text Me One', sans-serif;
+    color: white;
+    font-weight: lighter;
+    padding: 15px;
+}
